@@ -1,7 +1,7 @@
-# Assessing and Prediction of Flood
+# Assessing and Prediction Post Flood Recovery
 
 ## Project Overview
-The "Assessing and Prediction of Flood" project aims to predict flood risks based on environmental and geographical factors such as precipitation, river levels, and soil moisture. The project also includes post-flood recovery assessment based on recovery funds, infrastructure damage, and population affected.
+The "Assessing and Prediction Post Flood Recovery" project aims to predict flood risks based on environmental and geographical factors such as precipitation, river levels, and soil moisture. The project also includes post-flood recovery assessment based on recovery funds, infrastructure damage, and population affected.
 
 ## Features
 - **Flood Prediction**: Predicts the likelihood of a flood occurring in different regions using a Random Forest model.
