@@ -10,7 +10,7 @@ The "Assessing and Prediction of Flood" project aims to predict flood risks base
 - **Visualization**: Generates a correlation heatmap to analyze feature relationships with flood occurrence.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/assessing-and-prediction-of-flood.git 
+1. Clone the repository: git clone https://github.com/your-username/Assessing-and-prediction-post-flood-recovery.git 
 2. Install the required dependencies: pip install -r requirements.txt
 3. Download or provide your own dataset (`dummy_flood_dataset.csv`).
 
